@@ -1,4 +1,4 @@
-# Airbnb_ML-Model
+# Airbnb accommodation price prediction
 
 Since 2008, guests and hosts have used Airbnb to expand on travelling possibilities and present more unique, personalized way of experiencing the world. This public dataset is a part of Airbnb describing the listing activity and metrics in NYC, NY for 2019.
 
