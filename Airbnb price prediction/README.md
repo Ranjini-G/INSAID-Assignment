@@ -2,7 +2,7 @@
 
 Since 2008, guests and hosts have used Airbnb to expand on travelling possibilities and present more unique, personalized way of experiencing the world. This public dataset is a part of Airbnb describing the listing activity and metrics in NYC, NY for 2019.
 
-![voicepic2](https://github.com/Ranjini-G/INSAID-Assignment/blob/master/Images/voicepic2.jpg "voicepic2")
+![Hotel](https://github.com/Ranjini-G/INSAID-Assignment/blob/master/Images/Hotel.png "Hotel")
 
 This data file includes 48895 samples and 16 metrics to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
 
