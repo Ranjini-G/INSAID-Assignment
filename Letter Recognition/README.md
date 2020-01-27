@@ -1,10 +1,10 @@
 # Letter Recognition
 [![ltr1](https://github.com/Ranjini-G/INSAID-Assignment/blob/master/Images/ltr1.jpg "ltr1")](https://github.com/Ranjini-G/INSAID-Assignment/blob/master/Images/ltr1.jpg "ltr1")
 
-### Problem statement
+## Problem statement
 The objective is to **identify each of a large number of black-and-white rectangular pixel displays as one of the 26 capital letters in the English alphabet**. The character images were based on 20 different fonts and each letter within these 20 fonts was randomly distorted to produce a file of 20,000 unique stimuli. Each stimulus was converted into 16 primitive numerical attributes (statistical moments and edge counts) which were then scaled to fit into a range of integer values from 0 through 15. We typically train on the first 16000 items and then use the resulting model to predict the letter category for the remaining 4000.
 
-### Data description
+## Data description
 | Column Name  | Description  |
 | ------------ | ------------ |
 | letter  | capital letter (26 values from A to Z)  |
@@ -25,7 +25,7 @@ The objective is to **identify each of a large number of black-and-white rectang
 | y-ege  | mean edge count bottom to top  |
 | yegvx  | correlation of y-ege with x  |
 
-### Summary
+## Summary
 
 Various classifier models were used to predict the letters.   These models were evaluated on different metrics to  know their performance.  Listed here are the results:
 
