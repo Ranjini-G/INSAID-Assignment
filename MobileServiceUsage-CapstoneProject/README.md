@@ -20,3 +20,8 @@ Objective of this __consulting assignment__ is to build a dashboard to understan
 - Cleansing and purifying the data will decide how closely have you looked at the data.
 - A detailed report with all the observations will aid the vendor improving their services.
 - This Analytics consulting report on user behavior will directly impact the company's offerings; And let the company understand what is the right way forward and suggest actionable insights from marketing and product terms.
+
+------------
+
+## Conclusion
+Mobile phone has become an integral part of human life.  With the increased digital consumer space, it is imperative that the service providers are on top of customer's necessities and move them in the right direction or the right merchant.  This not only delight the customer but also service providers by enjoying their benefits.  The analysis has revealed a lot of interesting facts about the mobile phone users.  **26.7%** of the market is dominated by **Xiaomi** phone brand regardless of user’s demography and the region.  User activity is **high** during **18:00 - 22:00**. **** customers are the **major users** across the analysed regions.  **TamilNadu and UttarPradesh** top the list with the **largest number of users**.  INSAIDTelecom may customize their offerings by introducing **special packages for evening**.  It can may be increase/decrease in the call cost, data packs and SMS charges.
